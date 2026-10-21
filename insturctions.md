@@ -1,4 +1,3 @@
-# ANTIGRAVITY MASTER PROMPT — Tenacious Hub Full-Stack Redesign
 
 > Paste everything below the line into Antigravity (Manager view → new agent task). Use **Planning mode** so the agent produces an Implementation Plan artifact for your approval before it writes code.
 
